@@ -1,1 +1,1 @@
-# Go to https://surreyrebar.github.io
+# Go to our [website](https://surreyrebar.github.io)
