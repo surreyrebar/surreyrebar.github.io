@@ -71,10 +71,6 @@ header #branding h1 {
   font-size:35px;
 }
 
-header #branding img {
-  width:2%;
-}
-
 header nav {
   float:right;
   margin-top:10px;
@@ -191,7 +187,31 @@ footer {
     margin-top:40px;
   }
 
+  #boxes .box img {
+    width:90%;
+  }
+
   #footer-filler {
     height:0px;
+  }
+
+  ul#services li {
+    list-style:none;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-right:15px;
+    padding-left:20px;
+    border:#cccccc solid 1px;
+    margin-bottom:8px;
+    background:#e6e6e6;
+    width:auto;
+    height:auto;
+    float:none;
+  }
+
+  ul#services img {
+    width:100%;
+    margin-top:20px;
+    float:none;
   }
 }
